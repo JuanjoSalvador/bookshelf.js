@@ -45,3 +45,7 @@ La clase `portada` está por defecto en bookshelf.js y define el estilo de las p
                 <div id="user"></div>
             </body>
         </html>
+        
+ ### Licencia
+ 
+ Ver [LICENSE](https://github.com/JuanjoSalvador/bookshelf.js/blob/master/LICENSE)
